@@ -1,3 +1,5 @@
+#Iram Jimenez NC 0079
+#NL 32 = Tortuga
 import cv2
 
 # Cargar la imagen
@@ -33,3 +35,5 @@ cv2.waitKey(0)
 
 # Cerrar ventanas
 cv2.destroyAllWindows()
+
+print("Iram Jimenez NC 0079")
